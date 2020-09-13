@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="10152" started-at="2020-09-13T01:52:02Z" finished-at="2020-09-13T01:52:12Z">
+  <suite name="Default suite" duration-ms="9989" started-at="2020-09-13T02:00:53Z" finished-at="2020-09-13T02:01:03Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="10152" started-at="2020-09-13T01:52:02Z" finished-at="2020-09-13T01:52:12Z">
+    <test name="Default test" duration-ms="9989" started-at="2020-09-13T02:00:53Z" finished-at="2020-09-13T02:01:03Z">
       <class name="testcases.GoogleDocTest">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:testcases.GoogleDocTest@7ee955a8]" name="SetUp" is-config="true" duration-ms="6271" started-at="2020-09-12T21:52:02Z" finished-at="2020-09-12T21:52:08Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testcases.GoogleDocTest@7ee955a8]" name="SetUp" is-config="true" duration-ms="6207" started-at="2020-09-12T22:00:53Z" finished-at="2020-09-12T22:00:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="selectRadioButton()[pri:0, instance:testcases.GoogleDocTest@7ee955a8]" name="selectRadioButton" duration-ms="3203" started-at="2020-09-12T21:52:08Z" finished-at="2020-09-12T21:52:12Z">
+        <test-method status="PASS" signature="selectRadioButton()[pri:0, instance:testcases.GoogleDocTest@7ee955a8]" name="selectRadioButton" duration-ms="3146" started-at="2020-09-12T22:00:59Z" finished-at="2020-09-12T22:01:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectRadioButton -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.GoogleDocTest@7ee955a8]" name="TearDown" is-config="true" duration-ms="661" started-at="2020-09-12T21:52:12Z" finished-at="2020-09-12T21:52:12Z">
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.GoogleDocTest@7ee955a8]" name="TearDown" is-config="true" duration-ms="619" started-at="2020-09-12T22:01:02Z" finished-at="2020-09-12T22:01:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
